@@ -27,3 +27,4 @@ This is an OCR website that I have made to extract text from images with the hel
 ![Preview04](https://user-images.githubusercontent.com/78599887/146637951-1e8092f9-387b-47f5-9ddd-5170f73332a3.jpg)
 
 
+
