@@ -12,7 +12,6 @@ This is an OCR website that I have made to extract text from images with the hel
              
              4. Google OCR engine
              
-
 ### Preview:
 
 01. Home Page
